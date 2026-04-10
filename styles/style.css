@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --cor_de_fundo: #F2F2F2;
+    --cor_de_texto: #733B27;
+    --cor_de_texto_inverso: #8C6645;
+    --cor_de_destaque: #A67233;
+    --cor_de_destaque_inverso: #D9B382;
+    --cor_de_fundo_card: #F2D9BB;
+}
+
+
+body{
+    background-color: var(--cor_de_fundo);
+}
